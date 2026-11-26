@@ -5,7 +5,7 @@
 ![Idioma](https://img.shields.io/badge/idioma-Portugu%C3%AAs%20(BR)-009c3b)
 ![Plataforma](https://img.shields.io/badge/plataforma-PlayStation%202-003791)
 ![Versão do jogo](https://img.shields.io/badge/vers%C3%A3o%20do%20jogo-USA%20(NTSC--U)-555)
-![Release](https://img.shields.io/github/v/release/0xdhx0/xenosaga-3-ps2-ptbr?include_prereleases&label=patch)
+![Release](https://img.shields.io/github/v/release/dhverso/xenosaga-3-ps2-ptbr?include_prereleases&label=patch)
 ![Uso](https://img.shields.io/badge/uso-n%C3%A3o--comercial-c0392b)
 
 Tradução de fã do **Xenosaga Episode III: Also sprach Zarathustra** (PlayStation 2, versão americana), nos **dois
@@ -129,7 +129,7 @@ lugar do jogo e, se puder, mande um print. Toda correção de português também
 
 ## 🙏 Créditos
 
-- **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
+- **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
 - **Fontes livres (licença OFL)** usadas nas imagens: Arimo, BIZ UDGothic, BIZ UDMincho, Crimson Text, Michroma e Zen Dots,
   entre outras.
 
