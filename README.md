@@ -130,7 +130,8 @@ lugar do jogo e, se puder, mande um print. Toda correção de português também
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [0xdhx0](https://github.com/0xdhx0).
-- **Fontes livres (licença OFL)** usadas nas imagens: BIZ UDMincho e BIZ UDGothic.
+- **Fontes livres (licença OFL)** usadas nas imagens: Arimo, BIZ UDGothic, BIZ UDMincho, Crimson Text, Michroma e Zen Dots,
+  entre outras.
 
 **Como foi feita:** a tradução usou ferramentas de IA. Todos os diálogos foram revisados com o contexto da história, o
 texto japonês e o jeito de falar de cada personagem, medidos para caber nas caixas e testados no PCSX2. Se achar uma
