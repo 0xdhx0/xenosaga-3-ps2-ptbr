@@ -130,6 +130,7 @@ lugar do jogo e, se puder, mande um print. Toda correção de português também
 ## 🙏 Créditos
 
 - **Tradução, revisão e ferramentas:** [DHverso](https://github.com/dhverso).
+- **Acompanhe o DHverso:** [site](https://dhverso.com.br), [YouTube](https://www.youtube.com/@dhversobr) e [X](https://x.com/dhverso).
 - **Fontes livres (licença OFL)** usadas nas imagens: Arimo, BIZ UDGothic, BIZ UDMincho, Crimson Text, Michroma e Zen Dots,
   entre outras.
 
